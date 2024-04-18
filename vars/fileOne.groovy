@@ -1,3 +1,3 @@
 def call() {
-  sh 'echo devops test'
+  sh 'echo devops'
 }
